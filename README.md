@@ -5,7 +5,7 @@
 Модпак для того, щоб мінімізувати дроч і грайнд ресурсів, модпак направлений в основному на будівництво,
 при цьому зберігаючи всі ванільні механіки як є. 
 
-Всі моды можуть бути проігноровані, ви можете грати наче їх нема, вони нічого не змінюють в базовій грі.
+Всі моди можуть бути проігноровані, ви можете грати наче їх нема, вони нічого не змінюють в базовій грі.
 
 Якщо при завантаженні у вас пустий/пошкоджений архів, спробуйте звідси: https://drive.google.com/file/d/1iYZMJDDJRHEnGTx40bSJkhq-QkldFhpE/view?usp=sharing
 
@@ -22,7 +22,7 @@
   * Quark
   * Sophisticated Backpacks
   * Youngs Better dungeons and mineshafts
-## Аддоны Create
+## Аддони Create
   * Sandpaper Overhaul
   * Chunkloading
   * Ore Excavation
@@ -32,7 +32,7 @@
   * Deco Casing
   * Enchantment industry
   * Liquid burner
-## QoL моды
+## QoL моди
   * 3D Skin Layers (можна видалити)
   * Ambient sounds (можна видалити)
   * Carry on
