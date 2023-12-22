@@ -1,7 +1,6 @@
 # Модпак інфо
 
-Посилання на модпак
-https://drive.google.com/file/d/1iYZMJDDJRHEnGTx40bSJkhq-QkldFhpE/view?usp=sharing
+[Посилання на модпак](https://drive.google.com/file/d/1vwvKtrjV2iNNQgTVcKrsZMUieRahBD_7/view?usp=drive_link)
 
 ## Summary
 
