@@ -23,7 +23,7 @@
   * Sophisticated Backpacks
   * Youngs Better dungeons and mineshafts
 ## Аддоны Create
-  * Sandpaper Overhaul
+  * Sandpaper Overhaul (не працює)
   * Power loader
   * Ore Excavation
   * Structures
@@ -32,6 +32,8 @@
   * Deco Casing
   * Enchantment industry
   * Liquid burner
+  * Slice and Dice
+  * Misc and things
 ## QoL моды
   * 3D Skin Layers (можна видалити)
   * Ambient sounds (можна видалити)
