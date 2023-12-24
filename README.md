@@ -22,7 +22,7 @@
   * Quark
   * Sophisticated Backpacks
   * Youngs Better dungeons and mineshafts
-## Аддоны Create
+## Аддони Create
   * Sandpaper Overhaul (не працює)
   * Power loader
   * Ore Excavation
