@@ -34,6 +34,7 @@
   * Liquid burner
   * Slice and Dice
   * Misc and things
+  * Eureka!
 ## QoL моды
   * 3D Skin Layers (можна видалити)
   * Ambient sounds (можна видалити)
